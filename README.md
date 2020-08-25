@@ -1,10 +1,10 @@
-# MovieLens Movie Rating Predicitons
+# MovieLens Project Submission
 
-Project-Report for the Havardx Data Science-Certificate with these desired files:
+Submission for the Havardx Data Science-Certificate with these desired files:
 
-* 1. PDF-Report
+* 1. PDF report
 * 2. Rmd.file
-* 3. R-Script
+* 3. R script
 
 
 
