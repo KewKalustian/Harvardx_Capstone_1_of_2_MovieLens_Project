@@ -6,5 +6,6 @@ Submission for the Havardx Data Science-Certificate with these desired files:
 * Rmd.file
 * R script
 
-Final prediction result by using ridge regression: RMSE = 0.861902. Hence, this result is about 0.35% better than required.
+Final result of movie rating predictions by using ridge regression: 
+RMSE = 0.861902. Hence, this result is about 0.35% better than required.
 
