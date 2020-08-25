@@ -6,5 +6,5 @@ Submission for the Havardx Data Science-Certificate with these desired files:
 * Rmd.file
 * R script
 
-
+Final prediction result by using ridge regression: $RMSE = 0.861902$. Thus, this result is about $0.35%$ better than required.
 
